@@ -1,1 +1,1 @@
-We do open-source research.
+We are a group of researchers from the Middleware Advanced Software Systems (MASS) Lab at Chalmers University of Technology. We are open-sourcing our work on Debloating for the wider community and spinning out our startup Negaitva.ai to provide support for advanced use-cases for companies.  
