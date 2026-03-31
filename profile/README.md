@@ -1,1 +1,1 @@
-We are a group of researchers from the Middleware Advanced Software Systems (MASS) Lab at Chalmers University of Technology. We are open-sourcing our work on Debloating for the wider community and spinning out our startup Negaitva.ai to provide support for advanced use-cases for companies.  
+Negativa-AI was founded by @jzh18 and @ahmedaley, and builds on @jzh’s PhD research.
